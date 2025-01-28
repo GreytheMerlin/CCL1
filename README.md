@@ -29,6 +29,25 @@ Jump into Wizard Jump, a fun platformer where you dodge enemies, avoid falling, 
 
 ![Orb_Sprite](https://github.com/user-attachments/assets/8172b528-ecf6-4bcd-bb24-26dd46eb13cd)
 
+### Trampolin
+
+![Trampolin_Sprite](https://github.com/user-attachments/assets/0d657b4b-92d1-4cbd-a110-0f68f37b5223)
+
+## Single Images
+
+### Jumppad
+
+![Jumppad](https://github.com/user-attachments/assets/8f17bbfa-23af-4c7b-a731-c3cd4ad04ab9)
+
+### Potion
+
+![Potion](https://github.com/user-attachments/assets/21fabae3-eac5-4a2b-b584-317c83db82e2)
+
+### Cloud
+
+![cloud](https://github.com/user-attachments/assets/57f178e9-66eb-4087-8027-4dcc76d8681c)
+
+
 ## Reflection
 
 ### What went well:
