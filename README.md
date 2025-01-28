@@ -55,7 +55,7 @@ Jump into Wizard Jump, a fun platformer where you dodge enemies, avoid falling, 
 - Creating a game:  Initially, I thought making the game would be much harder and couldn't fully imagine how it would come together, but it turned out to be manageable and rewarding.
 
 ### Challenges:
-- Drawing: I am not the best in drawing so it was hard for me to fucus on that part
+- Drawing: I am not the best in drawing so it was hard for me to focus on that part
   
 ### Lessons Learned:
 - Design part: Don't overthink what you draw just try it and you will see if it looks good
