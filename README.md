@@ -9,3 +9,34 @@ Jump into Wizard Jump, a fun platformer where you dodge enemies, avoid falling, 
 
 ### Main Gameplay!
 ![1 06_Pesendorfer_Lukas_02](https://github.com/user-attachments/assets/e8bb2e0f-b02a-4aa9-8cf9-98021141120f)
+
+### Starting and End screen!
+
+![startscreen](https://github.com/user-attachments/assets/4aeb5e9d-ef92-4e9a-973b-9ee10ab28c48)
+
+![endscreen](https://github.com/user-attachments/assets/136d1303-313b-40e8-b22e-73416ea57e73)
+
+## Spritesheets
+
+### Main-Character
+![Wizard_sprite](https://github.com/user-attachments/assets/ad9ee99f-676b-4306-92e3-1cfae419191a)
+
+### Enemy
+
+![Bat_Sprite](https://github.com/user-attachments/assets/6038792f-5b5b-4dd4-9beb-e33b5426bddb)
+
+### Shooting 
+
+![Orb_Sprite](https://github.com/user-attachments/assets/8172b528-ecf6-4bcd-bb24-26dd46eb13cd)
+
+## Reflection
+
+### What went well:
+- Coding: The coding process was smooth and enjoyable, making it a great experience overall.
+- Creating a game:  Initially, I thought making the game would be much harder and couldn't fully imagine how it would come together, but it turned out to be manageable and rewarding.
+
+### Challenges:
+- Drawing: I am not the best in drawing so it was hard for me to fucus on that part
+  
+### Lessons Learned:
+- Design part: Don't overthink what you draw just try it and you will see if it looks good
