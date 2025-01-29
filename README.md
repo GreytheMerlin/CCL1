@@ -4,6 +4,7 @@ Jump into Wizard Jump, a fun platformer where you dodge enemies, avoid falling, 
 
 ## Play the Game
 
+https://greythemerlin.github.io/CreativeCodelab1/
 
 ## Screenshots
 
