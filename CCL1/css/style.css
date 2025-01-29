@@ -1,0 +1,83 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#menu{
+
+   
+    width: 755px; /* change according to your game */
+    height: 972px; /* change according to your game */
+    color: black;
+    background-image: url("../images/Startscreen1.png");
+    background-size: cover;
+    
+}
+.menu-item-gameover{
+
+    margin-top: 529px;
+    font-size: 30px;
+    font-family: cursive;
+    color: darkred;
+
+
+}
+.menu-item{
+
+    margin-top: 38vh;
+    margin-left: 4vh;
+    font-size: 38px;
+    font-family: cursive;
+    color: rgb(15 32 23);
+}
+#Lost-screen{
+    
+    width: 755px; /* change according to your game */
+    height: 972px; /* change according to your game */
+    color: black;
+    background-image: url("../images/Game-Over.png");
+    background-size: cover;
+    text-align: center;
+
+}
+#Win-screen{
+    width: 755px; /* change according to your game */
+    height: 972px; /* change according to your game */
+    color: black;
+    background-color:rgb(245, 245, 16);
+    background-size: cover;
+    text-align: center;
+
+}
+#gameContainer {
+    display: flex;
+    position: relative;
+    width: 755px; /* change according to your game */
+    height: 972px; /* change according to your game */
+}
+
+#canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+button{
+    width: 47px;
+    height: 35px;
+    background-image: url("../images/mute.png");
+    background-size: cover;
+
+}
+#background {
+
+    width: 755px; 
+    height: 972px;
+  
+    background-image: url("../images/Background1.png");
+    background-size: cover;
+
+}
+/* add styles for other HTML elements of your game */
